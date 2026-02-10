@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "モーニング娘。  『サマーナイトタウン』 (MV)",
+  "base_artist": "モーニング娘。",
+  "createdAt": "2026-02-10T03:33:52.259500Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サマーナイトタウン",
+      "artist": "tricot",
+      "has_synced": true,
+      "path": "select/01_サマーナイトタウン_tricot.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サマーナイトタウン",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/pl_01_サマーナイトタウン_モーニング娘。.txt"
+    }
+  ]
+}
